@@ -1,0 +1,16 @@
+1	The	_	DT	_	2	det
+2	horse	_	NN	_	0	ROOT
+3	as	_	RB	_	7	cc
+4	well	_	RB	_	3	fixed
+5	as	_	IN	_	3	fixed
+6	the	_	DT	_	7	det
+7	rabbits	_	NNS	_	2	conj
+8	which	_	WDT	_	10	obj
+9	we	_	PRP	_	10	nsubj
+10	wanted	_	VBD	_	7	acl:relcl
+11	to	_	TO	_	12	mark
+12	eat	_	VB	_	10	xcomp
+13	have	_	VBP	_	14	aux
+14	escaped	_	VBN	_	12	dep
+15	.	_	.	_	2	punct
+

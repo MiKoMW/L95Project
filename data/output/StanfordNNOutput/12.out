@@ -1,0 +1,26 @@
+1	It	_	PRP	_	4	nsubj
+2	wo	_	MD	_	4	aux
+3	n’t	_	RB	_	4	advmod
+4	rain	_	VB	_	0	ROOT
+5	but	_	CC	_	9	cc
+6	there	_	EX	_	9	expl
+7	might	_	MD	_	9	aux
+8	be	_	VB	_	9	cop
+9	snow	_	NN	_	4	conj
+10	on	_	IN	_	12	case
+11	high	_	JJ	_	12	amod
+12	ground	_	NN	_	9	obl
+13	if	_	IN	_	16	mark
+14	the	_	DT	_	15	det
+15	temperature	_	NN	_	16	nsubj
+16	stays	_	VBZ	_	9	advcl
+17	about	_	IN	_	19	amod
+18	the	_	DT	_	19	det
+19	same	_	JJ	_	16	obj
+20	over	_	IN	_	24	case
+21	the	_	DT	_	24	det
+22	next	_	JJ	_	24	amod
+23	24	_	CD	_	24	nummod
+24	hours	_	NNS	_	19	nmod
+25	.	_	.	_	4	punct
+

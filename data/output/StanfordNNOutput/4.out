@@ -1,0 +1,11 @@
+1	Kim	_	NNP	_	5	nsubj
+2	and	_	CC	_	3	cc
+3	Sandy	_	NNP	_	1	conj
+4	both	_	DT	_	1	dep
+5	broke	_	VBD	_	0	ROOT
+6	up	_	RP	_	5	compound:prt
+7	with	_	IN	_	9	case
+8	their	_	PRP$	_	9	nmod:poss
+9	partners	_	NNS	_	5	obl
+10	.	_	.	_	5	punct
+

@@ -1,0 +1,16 @@
+1	The	_	DT	_	3	det
+2	only	_	JJ	_	3	amod
+3	rabbit	_	NN	_	9	nsubj:pass
+4	that	_	WDT	_	7	obj
+5	I	_	PRP	_	7	nsubj
+6	ever	_	RB	_	7	advmod
+7	liked	_	VBD	_	3	acl:relcl
+8	was	_	VBD	_	9	aux:pass
+9	eaten	_	VBN	_	0	ROOT
+10	by	_	IN	_	12	case
+11	my	_	PRP$	_	12	nmod:poss
+12	parents	_	NNS	_	9	obl
+13	one	_	CD	_	14	nummod
+14	summer	_	NN	_	9	obl:tmod
+15	.	_	.	_	9	punct
+

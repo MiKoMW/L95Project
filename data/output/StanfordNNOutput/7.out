@@ -1,0 +1,17 @@
+1	It	_	PRP	_	6	nsubj
+2	was	_	VBD	_	6	cop
+3	my	_	PRP$	_	4	nmod:poss
+4	aunt	_	NN	_	6	nmod:poss
+5	’s	_	POS	_	4	case
+6	car	_	NN	_	0	ROOT
+7	which	_	WDT	_	9	obj
+8	we	_	PRP	_	9	nsubj
+9	sold	_	VBD	_	6	acl:relcl
+10	at	_	IN	_	11	case
+11	auction	_	NN	_	9	obl
+12	last	_	JJ	_	13	amod
+13	year	_	NN	_	9	obl:tmod
+14	in	_	IN	_	15	case
+15	February	_	NNP	_	9	obl
+16	.	_	.	_	6	punct
+

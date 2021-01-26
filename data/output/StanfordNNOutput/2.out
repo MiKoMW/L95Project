@@ -1,0 +1,12 @@
+1	At	_	IN	_	2	case
+2	least	_	JJS	_	3	obl:npmod
+3	two	_	CD	_	4	nummod
+4	men	_	NNS	_	5	nsubj
+5	broke	_	VBD	_	0	ROOT
+6	in	_	IN	_	5	compound:prt
+7	and	_	CC	_	8	cc
+8	stole	_	VBD	_	5	conj
+9	my	_	PRP$	_	10	nmod:poss
+10	TV	_	NN	_	8	obj
+11	.	_	.	_	5	punct
+

@@ -1,0 +1,12 @@
+1	The	_	DT	_	2	det
+2	horses	_	NNS	_	4	nsubj:pass
+3	were	_	VBD	_	4	aux:pass
+4	broken	_	VBN	_	0	ROOT
+5	in	_	RP	_	4	compound:prt
+6	and	_	CC	_	7	cc
+7	ridden	_	VBN	_	4	conj
+8	in	_	IN	_	10	case
+9	two	_	CD	_	10	nummod
+10	weeks	_	NNS	_	4	obl
+11	.	_	.	_	4	punct
+

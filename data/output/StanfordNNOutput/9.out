@@ -1,0 +1,16 @@
+1	The	_	DT	_	2	det
+2	veterans	_	NNS	_	14	nsubj
+3	who	_	WP	_	5	obj
+4	I	_	PRP	_	5	nsubj
+5	thought	_	VBD	_	2	acl:relcl
+6	that	_	IN	_	9	mark
+7	we	_	PRP	_	9	nsubj
+8	would	_	MD	_	9	aux
+9	meet	_	VB	_	5	ccomp
+10	at	_	IN	_	12	case
+11	the	_	DT	_	12	det
+12	reunion	_	NN	_	9	obl
+13	were	_	VBD	_	14	cop
+14	dead	_	JJ	_	0	ROOT
+15	.	_	.	_	14	punct
+
